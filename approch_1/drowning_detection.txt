@@ -1,0 +1,14 @@
+# Core Packages
+ultralytics==8.2.0  # For YOLOv9 integration
+torch==2.3.0
+torchvision==0.18.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+matplotlib==3.9.0
+scikit-learn==1.4.2
+albumentations==1.4.0
+Pillow==10.3.0
+pyqt5==5.15.10
+# Additional Dependencies
+cvlib==0.2.7  # For age/gender detection
+ipython==8.25.0  # For Jupyter display
